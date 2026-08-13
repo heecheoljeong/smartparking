@@ -13,18 +13,6 @@
 					<key>url</key>
 					<string>https://github.com/heecheoljeong/smartparking/releases/download/2.0.0/smartparking-seogu.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/scl/fi/nizld0brm2cbrm9lmoagv/60.png?rlkey=b7i0exjjkfvph81h4cgbxyceo&st=4q0bt94v&dl=0</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/scl/fi/rs9rclr08caekt2vufnu8/img.png?rlkey=tmrtqdxjbke572ofngtsrgiu2&st=x3so0ah3&dl=0</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
